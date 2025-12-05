@@ -1,3 +1,0 @@
- Привет, Git!
-
-dobavil novuyu strochku
